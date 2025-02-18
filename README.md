@@ -24,8 +24,8 @@ We demonstrate the superior performance of the proposed methods on multiple benc
 │       ├───conv_matrix.py                      (Prune methods)
 │       ├───get_params_flops.py                 (Get parameters Flops of the original model and pruned model)
 │       ├───options.py                          (Parameter settings)
-main_cifar10.py                              (Prune and fine-tune on CIFAR-10)
-main_imagenet.py                             (Prune and fine-tune on ImageNet)
+main_cifar10.py                                 (Prune and fine-tune on CIFAR-10)
+main_imagenet.py                                (Prune and fine-tune on ImageNet)
 ```
 
 ## Dataset

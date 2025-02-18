@@ -19,7 +19,7 @@ We demonstrate the superior performance of the proposed methods on multiple benc
 │       ├───resnet.py                           (resnet)
 │       ├───vgg_cifar.py                        (vggnet)
 ├───utils  
-│       ├───builder.py                          (Build conv layers with mask)
+│       ├───builder.py                          (Build conv layers)
 │       ├───common.py                           (Logger functions, etc)
 │       ├───conv_matrix.py                      (Prune methods)
 │       ├───get_params_flops.py                 (Get parameters Flops of the original model and pruned model)
